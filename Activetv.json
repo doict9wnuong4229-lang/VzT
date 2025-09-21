@@ -1,16 +1,14 @@
 [
-  {
-    "id": "866b91a12f5c9bb6",
-    "username": "san",
-    "password": "san",
-    "expiresAt": "2026-12-31",
-    "allowOffline": true
-  },
-  {
-    "id": "866b91a12f5c9bb6",
-    "username": "user2",
-    "password": "pass2",
-    "expiresAt": "2027-11-30",
-    "allowOffline": false
-  }
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "device456",
+        "key": "key67890",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
+    }
 ]
