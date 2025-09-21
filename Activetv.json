@@ -1,0 +1,16 @@
+[
+  {
+    "id": "866b91a12f5c9bb6",
+    "username": "san",
+    "password": "san",
+    "expiresAt": "2026-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "866b91a12f5c9bb6",
+    "username": "user2",
+    "password": "pass2",
+    "expiresAt": "2027-11-30",
+    "allowOffline": false
+  }
+]
